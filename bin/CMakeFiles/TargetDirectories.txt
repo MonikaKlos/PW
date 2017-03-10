@@ -1,3 +1,4 @@
 C:/Users/student/PW/bin/CMakeFiles/ALL_BUILD.dir
 C:/Users/student/PW/bin/CMakeFiles/Laborka.dir
 C:/Users/student/PW/bin/CMakeFiles/ZERO_CHECK.dir
+C:/Users/student/PW/bin/Trygonometria/CMakeFiles/Trygonometria.dir
